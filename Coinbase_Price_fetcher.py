@@ -22,6 +22,7 @@ while True:
     print("Ethereum")
     price = Price()
     
+    #can change the Crypto and conversion price and price type [BTC or XRP etc]-[USD or INR etc]/[buy or sell or spot]
     response = requests.get("https://api.coinbase.com/v2/prices/ETH-INR/buy")
     #This line is used to display on terminal
     print(f"Buy_Price: {price.display()}")
