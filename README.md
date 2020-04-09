@@ -3,6 +3,6 @@ This Script is used to get the Buy, Sell, Spot Prices from the Coinbase API and 
 
 # Requirements
 Download these before using:
-      requests
-      notify-run
-      win10toast
+	requests,
+	notify-run,
+	win10toast.
