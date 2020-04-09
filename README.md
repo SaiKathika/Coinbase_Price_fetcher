@@ -3,10 +3,7 @@ I have written script for ETH/INR, you can change this in code
 This Script is used to get the Buy, Sell, Spot Prices from the Coinbase API and can send notifications to Mobile and Desktop
 
 # Requirements
-Download these before using:
-  # requests
-  # notify-run
-  # win10toast
+Download these before using:  requests, notify-run, win10toast.
 
 # Desktop Screenshot
 ![](Images/desktop.JPG)
@@ -14,8 +11,3 @@ Download these before using:
 # Mobile Screenshot
 ![](Images/mobile.png)
 
-# Requirements
-Download these before using:
-requests,
-notify-run,
-win10toast.
